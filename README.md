@@ -4,6 +4,7 @@
 Now you don't need to remember any commands of Kubernetes , Just type as per your convenience in 𝓱𝓾𝓶𝓪𝓷 𝓵𝓪𝓷𝓰𝓾𝓪𝓰𝓮 and our app will interpret it and do the needful stuffs for you.
 
 It can run almost all Kubernetes commands. Some of the features are given below:
+
 👉 It can launch pods with the specific names given by user. 
 
 👉 Run deployment using image and name given by the user. 
